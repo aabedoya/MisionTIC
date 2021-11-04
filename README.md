@@ -1,2 +1,1 @@
-# MisionTIC
-Codes Curse of Programming
+Mision TIC Ciclo 4 - Sistema de información de proyectos
