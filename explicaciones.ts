@@ -2,7 +2,7 @@ import conectarBD from './db/bd';
 import { UserModel } from './models/user';
 import { Enum_EstadoUsuario, Enum_Rol, Enum_TipoObjetivo } from './models/enums';
 import { ProjectModel } from './models/project';
-import { ObjectId } from 'mongoose';
+import mongoose from 'mongoose';
 import { ObjectiveModel } from './models/objective';
 
 // METODOLOGÍA ONE TO MANY #1
